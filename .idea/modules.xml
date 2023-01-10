@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/moeda/moeda.iml" filepath="$PROJECT_DIR$/moeda/moeda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/padrao-Interpreter.iml" filepath="$PROJECT_DIR$/.idea/padrao-Interpreter.iml" />
+    </modules>
+  </component>
+</project>
